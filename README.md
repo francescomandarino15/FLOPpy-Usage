@@ -105,4 +105,5 @@ FLOPpy is a hardware-agnostic library for monitoring computational cost in ML/DL
 This repository is maintained by:
 
 Francesco Mandarino
+
 Junior Software Engineer | Machine Learning | Green AI
