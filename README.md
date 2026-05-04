@@ -91,5 +91,17 @@ PyTorch Example
 - Integrated computational tracking
 - Detailed cost analysis
 
+## 🌱 Green AI Perspective
+
+FLOPpy contributes to sustainable AI development by enabling:
+- efficient model evaluation
+- reduced computational waste
+- awareness of computational cost
+
+## 👨‍💻 About
 
 FLOPpy is a hardware-agnostic library for monitoring computational cost in ML/DL models, developed during a research internship at ICAR-CNR.
+
+This repository is maintained by:
+Francesco Mandarino
+Junior Software Engineer | Machine Learning | Green AI
