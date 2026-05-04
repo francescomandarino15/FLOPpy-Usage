@@ -108,3 +108,7 @@ This repository is maintained by:
 Francesco Mandarino
 
 Junior Software Engineer | Machine Learning | Green AI
+
+## 📄 License
+
+This project is released under the MIT License.
