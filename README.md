@@ -1,7 +1,8 @@
 # FLOPpy-Usage
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![PyPI](https://img.shields.io/badge/PyPI-floppy--tracker-blue)
+![PyPI version](https://img.shields.io/pypi/v/floppy-tracker)
+![PyPI downloads](https://img.shields.io/pypi/dm/floppy-tracker)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
