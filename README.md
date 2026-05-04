@@ -103,5 +103,6 @@ FLOPpy contributes to sustainable AI development by enabling:
 FLOPpy is a hardware-agnostic library for monitoring computational cost in ML/DL models, developed during a research internship at ICAR-CNR.
 
 This repository is maintained by:
+
 Francesco Mandarino
 Junior Software Engineer | Machine Learning | Green AI
