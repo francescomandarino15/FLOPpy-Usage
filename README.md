@@ -20,7 +20,7 @@ supporting the development of efficient and sustainable AI systems in line with 
 ## 🔗 Resources
 
 - 📦 PyPI: https://pypi.org/project/floppy-tracker/  
-- 💻 Official Repository: [ADD OFFICIAL FLOPPY REPO LINK HERE]
+- 💻 Official Repository: https://github.com/Franco7Scala/FLOPpy
 
 ---
 
