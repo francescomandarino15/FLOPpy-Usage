@@ -37,6 +37,8 @@ pip install -r requirements.txt
 pip install floppy-tracker
 ```
 
+---
+
 ## 🧠 FLOPpy Usage Modes
 
 FLOPpy supports two main usage paradigms:
@@ -80,6 +82,8 @@ tracker.torch_bind(
 )
 ```
 
+---
+
 ## 📊 Example Scripts
 Scikit-learn Example
 - Dataset loading
@@ -92,12 +96,16 @@ PyTorch Example
 - Integrated computational tracking
 - Detailed cost analysis
 
+---
+
 ## 🌱 Green AI Perspective
 
 FLOPpy contributes to sustainable AI development by enabling:
 - efficient model evaluation
 - reduced computational waste
 - awareness of computational cost
+
+---
 
 ## 👨‍💻 About
 
@@ -108,6 +116,8 @@ This repository is maintained by:
 Francesco Mandarino
 
 Junior Software Engineer | Machine Learning | Green AI
+
+---
 
 ## 📄 License
 
