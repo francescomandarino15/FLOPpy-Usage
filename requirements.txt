@@ -1,0 +1,7 @@
+floppy-tracker>=0.1.0
+numpy==2.4.3
+psutil==7.2.2
+scikit_learn==1.8.0
+torch==2.2.2
+transformers==4.57.1
+wandb==0.25.1
